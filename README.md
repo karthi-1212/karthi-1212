@@ -2,7 +2,10 @@
 <h3 align="center">A prospective Data Scientist.</h3>
 <br>
 <img align="right" alt = "coding" width = "400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi-1212&label=Profile%20views&color=0e75b6&style=flat" alt="kindo-tk" /> </p>
+
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=karthi-1212&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 - 📫 Reach me at **maheswarkarthik@gmail.com**
 
@@ -20,7 +23,6 @@
 <br>
 
 
-
 ## Connect with me:
 
 <p align="left">
@@ -35,9 +37,25 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi-1212&show_icons=true&locale=en&layout=compact" alt="karthi-1212" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi-1212&show_icons=true&locale=en" alt="karthi-1212" /></p>
+---
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=karthi-1212&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=karthi-1212&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-1212&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -14,7 +14,7 @@
 <br>
 <br>
 
-## Experience 💼: 
+## Experience 💼
   - Proficient in C++ and Python.
   - Full stack developer with expertise in R programming.
 ## Education 🎓:
@@ -23,13 +23,13 @@
 <br>
 
 
-## Connect with me:
+## Connect with me
 
 <p align="left">
 <a href="https://x.com/karthikmaheswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kindo_tk" height="30" width="40" /></a><a href="https://www.linkedin.com/in/karthik-m-s1212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-m-s1212" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -38,13 +38,13 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
----
+
+## Github Stats
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=karthi-1212&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
----
 
 
 <p align="center">
@@ -52,6 +52,7 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-1212&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
+---
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

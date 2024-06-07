@@ -17,7 +17,7 @@
 ## Experience 💼
   - Proficient in C++ and Python.
   - Full stack developer with expertise in R programming.
-## Education 🎓:
+## Education 🎓
   - Bachelor of Science in Mathematical Sciences from Delhi University.
   - Masters of Science in Data Science from VIT Chennai.
 <br>

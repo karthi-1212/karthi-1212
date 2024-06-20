@@ -12,8 +12,8 @@
 -  👨🏻‍💻 <a href="https://karthi-1212.github.io/tk.github.io/" target="blank">Portfolio</a>
 
 <br>
-
-
+<br>
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karthi-1212&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

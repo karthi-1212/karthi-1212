@@ -21,7 +21,6 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthi-1212&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Experience 💼
   - Proficient in C++ and Python.
@@ -64,6 +63,10 @@
 |----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karthi-1212&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Github Stats
@@ -78,7 +81,9 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=karthi-1212&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-1212&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
+
+
+
 ---
 
 <p align="center">

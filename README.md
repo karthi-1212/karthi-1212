@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Karthik M S</h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=Karthik&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
+
+
+<!--<h1 align="center">Hi 👋, I'm Karthik M S</h1>-->
 <h3 align="center">A prospective Data Scientist.</h3>
 <br>
 <img align="right" alt = "coding" width = "400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
